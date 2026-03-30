@@ -74,5 +74,5 @@ Strong separation between malignant and benign tumors
 
 This project demonstrates how statistical testing and machine learning can be combined to identify important tumor features and build an accurate predictive model.
 
-Author
+Author:
 Merik Patel
