@@ -1,5 +1,7 @@
 Breast Cancer Tumor Feature Analysis & Biomarker Exploration:
 
+A small attempt to identify statistically significant tumor features (potential biomarkers) and evaluate their predictive ability using logistic regression.
+
 # Overview
 
 This project analyzes breast cancer tumor data to identify significant features (potential biomarkers) and build a predictive model to classify tumors as malignant (M) or benign (B).
